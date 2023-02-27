@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-Welcome to Chicago Human+AI Lab (CHAI)!
-
-![https://chicagohai.github.io/avatar.jpg](https://chicagohai.github.io/avatar.jpg)
+Welcome to [Chicago Human+AI Lab (CHAI)](https://chicagohai.github.io/)!
 
 Our goal is to build the best AI for humans by 1) developing best practices for effective human-AI collaboration through explanations and 2) building robust models that can discover data-driven insights.
 We currently work on the following areas:
